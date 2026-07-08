@@ -38,6 +38,10 @@ Build a strong Python foundation required for AI Engineering.
 
 ![Task Output](day01/screenshots/task.png)
 
+## Demo
+
+![Demo](day01/screenshots/demo.gif)
+
 ## Status
 
 🚀 In Progress

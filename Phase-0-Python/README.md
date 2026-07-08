@@ -40,7 +40,7 @@ Build a strong Python foundation required for AI Engineering.
 
 ## Demo
 
-![Demo](day01/screenshots/demo.gif)
+![Demo](day01/demo.gif)
 
 ## Status
 

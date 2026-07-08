@@ -26,6 +26,18 @@ Build a strong Python foundation required for AI Engineering.
 - Expense Tracker
 - Contact Book
 
+# Phase 0 - Day 1
+
+## Practice Output
+
+![Practice Output](day01/screenshots/practice.png)
+
+---
+
+## Task Output
+
+![Task Output](day01/screenshots/task.png)
+
 ## Status
 
 🚀 In Progress
